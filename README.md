@@ -42,6 +42,7 @@ The following pip packages are installed, as described in [requirements.txt](htt
 * matplotlib
 * numpy
 * pandas
+* pip
 * scikit-learn
 * scipy
 * wfdb
