@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+py-eureka-client
+scikit-learn
+scipy
+wfdb
